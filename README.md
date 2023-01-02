@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 ### :fire: My Stats :
 | <a href="https://github.com/amankayat/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=amankayat&count_private=true&theme=react&show_icons=true" alt="Aman's github stats" /></a> |
 <div>
-|<a href="https://github.com/amankayat/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amankayat&layout=compact&theme=react" /></a> |
+| <a href="https://github.com/amankayat/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amankayat&layout=compact&theme=react" /></a> |
 </div>
 
 
