@@ -1,8 +1,15 @@
 
-# Hi, I'm Aman! 👋
+<h1 align="center"> <img  src = "https://media.giphy.com/media/HEURGne9Vj856oivkD/giphy.gif" width="100px" height="100px" align="center"> <br> Hi, I'm Aman! 👋</h1>
+<div align="center">
+
+## 🔗 Profile Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://portfolioaman.pythonanywhere.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-kayat-554195186/)
 
 
-[![@amankayat's Holopin board](https://holopin.io/api/user/board?user=amankayat)](https://holopin.io/@amankayat)
+</div>
+
+<hr>
 
 - 👋 Hi, I’m @amankayat
 - 👀 i love coding 
@@ -10,6 +17,11 @@
 - 🧑‍💻 Doing Competitive programing on cf nd cc
 - 💞️ I’m looking to collaborate on web developing
 - 📫 How to reach me - you can msg me on insta-@aman.k789 , Email: amankayat789@gmail.com
+
+
+[![@amankayat's Holopin board](https://holopin.io/api/user/board?user=amankayat)](https://holopin.io/@amankayat)
+
+
 
 <!---
 amankayat/amankayat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
