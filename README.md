@@ -21,6 +21,31 @@
 
 [![@amankayat's Holopin board](https://holopin.io/api/user/board?user=amankayat)](https://holopin.io/@amankayat)
 
+<div align="center">
+  <h2>🚀 Coding Profiles</h2>
+  <a href="https://www.hackerrank.com/amankayat789?hr_r=1">
+    <img src="https://img.shields.io/badge/HackerRank-25D366?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/amankayat">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks">
+  </a>
+  <a href="https://leetcode.com/amankayat/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+  </a>
+  <a href="https://www.codechef.com/users/amankayat">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef">
+  </a>
+
+<hr>
+<!-- Stats of my activity on Github -->
+<details open> 
+  <summary><h2>📶 Github Stats and Activity</h2></summary>
+  <br>
+  <a href="https://github.com/bhawana30">
+    <img align="center" src="https://streak-stats.demolab.com/?user=bhawana30&theme=highcontrast" alt="Bhawana's Github stats">
+  </a>
+  <br>
+</details>
 
 
 <!---
