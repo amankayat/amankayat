@@ -29,7 +29,7 @@
   <a href="https://auth.geeksforgeeks.org/user/amankayat">
     <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks">
   </a>
-  <a href="https://leetcode.com/amankayat/">
+  <a href="https://leetcode.com/amankayat789/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
   </a>
   <a href="https://www.codechef.com/users/amankayat">
