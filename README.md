@@ -54,16 +54,6 @@ You can click the Preview link to take a look at your changes.
 --->
 <!-- Stats of my activity on Github -->
 
-<details open> 
-  <summary><h2>📶 Github Stats and Activity</h2></summary>
-
-<br>
-
-| <a href="https://github.com/amankayat"><img align="center" src="https://streak-stats.demolab.com/?user=amankayat&theme=highcontrast" alt="Aman's github stats" /></a> 
-    
-<br>
-    
-</details>
 
 
 
